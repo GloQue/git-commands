@@ -1,1 +1,20 @@
-This is the first sentence
+GIT COMMANDS
+
+git init
+git clone --- to clone, "git clone https://github.com/JessieF-2021/retaurant.git"
+git add <file>
+git commit -m  ""
+git status
+git log
+git branch
+git checkout or switch
+git checkout -b new branch
+git pull
+git push
+git merge
+git rebase
+git stash
+git remote -v
+git reset file 
+git diff
+git tag
